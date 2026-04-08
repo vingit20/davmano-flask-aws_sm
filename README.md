@@ -1,6 +1,6 @@
 # 🧱 Repos
 
-   App Repo: [**davmano/flask-app_sm**](https://github.com/davmano-flask-aws_sm)
+   App1 Repo: [**davmano/flask-app_sm**](https://github.com/davmano-flask-aws_sm)
    
    GitOps Repo: [**davmano/k8s-gitops-repo**](https://github.com/davmano/k8s-gitops-repo)
   
